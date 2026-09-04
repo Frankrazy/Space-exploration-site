@@ -20,3 +20,7 @@ body {
 .underline {
     text-decoration: 4px underline;
 }
+
+#spacex-logo {
+    width: 100px;
+}
